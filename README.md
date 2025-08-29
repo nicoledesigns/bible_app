@@ -1,6 +1,7 @@
 # bible_app
 
 A Flutter app I built to make Bible reading and reflection more interactive.
+
 · Read or listen to Scripture, highlight verses, and take notes
 
 · Daily verses, prayer calendar, and verse search
